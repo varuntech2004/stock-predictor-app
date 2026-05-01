@@ -1,0 +1,11 @@
+streamlit
+pyyaml
+bcrypt
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+ta
+psycopg2-binary
+python-dotenv
